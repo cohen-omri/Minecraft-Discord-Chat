@@ -1,0 +1,10 @@
+name: DiscordChat
+version: '${project.version}'
+main: me.angel.testdiscordbot.TestDiscordBot
+#api-version: 1.16
+authors: [ Angel ]
+description: connects discord chat with minecraft chat
+
+commands:
+  senddis:
+    description: sends a message on discord

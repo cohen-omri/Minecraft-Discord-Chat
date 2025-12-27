@@ -1,0 +1,8 @@
+token:
+
+minecraft-chat:
+  enabled: true
+
+discord-chat:
+  enabled: true
+  channel-id:
